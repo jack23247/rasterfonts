@@ -25,10 +25,12 @@ The repository is organized as follows:
 
 Here follows a list of currently available fonts
 
-| Name    | Version    | Description                                               |
-| ------- | ---------- | --------------------------------------------------------- |
-| LispM   | 2020-09-10 | The main font of the CADR, used also in Symbolics' Genera |
-| Tek4010 | 2020-09-10 | The ROM font of the Tektronix 4010 storage tube           |
+| Name    | Version    | Description                                                  |
+| ------- | ---------- | ------------------------------------------------------------ |
+| LispM   | 2020-09-10 | The main font of the CADR, used also in Symbolics' Genera    |
+| Tek4010 | 2020-09-10 | The ROM font of the Tektronix 4010 storage tube              |
+| SM7238  | *TBA*      | The ROM font of the Elektronika SM 7238 (Электроника СМ 7238) terminal |
+| 5250-12 | *TBA*      | The 12px font supplied with IBM Client Access 400 in the late 90s |
 
 ## License
 
