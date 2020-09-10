@@ -4,7 +4,7 @@
 
 An attempt to recreate the first Lisp Machine's font, named `CPTFONT` in the MIT CADR operating system.
 
-![](.\LispM.png)
+![LispM.png](https://raw.githubusercontent.com/jack23247/rasterfonts/master/LispM/LispM.png)
 
 ## Metrics
 
