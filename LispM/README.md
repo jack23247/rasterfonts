@@ -20,4 +20,4 @@ The whole base character set has been implemented. Some extended characters need
 
 ## Authors
 
-This font was created by the MIT AI Lab for their Knight and CADR machines' operating system, and it was initially traced and reproduced by Jacopo Maltagliati in september 2020.
+This font was created in 1979 by the MIT AI Lab for their Knight and CADR machines' operating system, and it was hereby traced and reproduced in September 2020.

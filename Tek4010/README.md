@@ -18,8 +18,8 @@ You can read more about the Tektronix 4010 [here](http://www.pdp8online.com/tek4
 
 <img src="http://www.pdp8online.com/tek4010/pics/small/dscf0080.jpg">
 
-The [4010 maintenace manual, section 2](ftp://ftp.pdp8online.com/misc/4010/sect2.pdf) lists only 64 glyphs: so far it's been completely implemented. Some useful characters are missing, most notably, `{`, `}`, `'` and `~`: I have designed those glyphs myself. 
+The [4010 maintenace manual, section 2](ftp://ftp.pdp8online.com/misc/4010/sect2.pdf) lists only 64 glyphs: so far it's been completely implemented. Some useful characters are missing, most notably, `{`, `}`, `'` and `~`: I have designed those glyphs myself.
 
 ## Authors
 
-This font was created by Tektronix for their 4010 storage tube terminal, and it was initially traced, reproduced  and extended by Jacopo Maltagliati in september 2020.
+This font was created by Tektronix in 1975 for their 4010 storage tube terminal, and it was hereby traced, reproduced and extended in September 2020.
